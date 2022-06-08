@@ -6,6 +6,7 @@ Autor: Federico Clavijo López
 Nos han pedido que diseñemos una serie de herramientas que permitan trabajar con este tipo de datos a largo plazo, además de realizar unos análisis preliminares de los mismos. Para ello, nos han proporcionado un conjunto de datos que incluye toda la información sobre los jugadores y las jugadoras incluídas en el videojuego desde el año 2016 hasta el 2022.
 
 ## Inputs para ejecutar el programa
+El programa necesita un fichero input_fclavijo0.txt, que contiene:
 1. 
 2. 
 
