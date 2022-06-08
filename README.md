@@ -9,4 +9,13 @@ Nos han pedido que diseñemos una serie de herramientas que permitan trabajar co
 1. 
 2. 
 
-# 
+## Pasos para ejecutar main.py
+1.
+2.
+
+## Pasos para ejecutar main.py
+1.
+2.
+
+## Outputs del programa
+
