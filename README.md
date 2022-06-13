@@ -20,6 +20,9 @@ Se decidió crear un script por cada punto solicitado. Se pide seguir el siguien
 6. python3 2c_dt_query.py
 7. python3 3a_BMI.py
 
+## IMPORTANTE: Aspectos a tener en cuenta en caso de errores en la ejecución de los script:
+* El py ya fue ejecutado y como resultado ya fue creado el fichero de salida en la carpeta data y no puede mover el fichero porque existe otrocon el mismo nombre.
+* Para los script que solicitan juntar datasets como es el caso de 1b y 1c, se necesita que ya existan en la carpeta data, los ficheros con los años que se solicita juntar. Es decir que se haya ejecutado el script del ejercicio 1a para esos años, esto implica modificar el .txt que le acompaña indicando nombre del dataset y año.  
 
 ## Inputs para ejecutar el programa
 Los scripts (.py) de los ejercicios 1a, 1b, 1c, 2a, 2c estan acompañados de un fichero .txt que contiene los argumentos que necesita el .py
