@@ -12,13 +12,13 @@ Nos han pedido que diseñemos una serie de herramientas que permitan trabajar co
 3. pip install -r requirements.txt
 
 Se decidió crear un script por cada punto solicitado. Se pide seguir el siguiente orden.
-1. python3 .1a_gender_year_add.py
-2. python3 .1b_join_dt_gender_year.py
-3. python3 .1c_join_dt_years.py
-4. python3 .2a_max_col.py
-5. python3 .2b_dt_query.py 
-6. python3 .2c_dt_query.py
-7. python3 .3a_BMI.py
+1. python3 1a_gender_year_add.py
+2. python3 1b_join_dt_gender_year.py
+3. python3 1c_join_dt_years.py
+4. python3 2a_max_col.py
+5. python3 2b_dt_query.py 
+6. python3 2c_dt_query.py
+7. python3 3a_BMI.py
 
 
 ## Inputs para ejecutar el programa
