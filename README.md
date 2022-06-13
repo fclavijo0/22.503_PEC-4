@@ -7,11 +7,11 @@ Nos han pedido que diseñemos una serie de herramientas que permitan trabajar co
 
 
 ## Pasos para ejecutar PEC4_fclavijo0.py
-1. Descargar y descomprimir fichero. El mismo fichero se encuentra en el repositorio https://github.com/fclavijo0/22.503_PEC-4/
+1. Descargar y descomprimir fichero. El mismo fichero se encuentra en el repositorio https://github.com/fclavijo0/22.503_PEC-4/ Sin embargo no se subieron los archivos para evitar temas de copia.
 2. cd ./PEC4_fclavijo0
 3. pip install -r requirements.txt
 
-Se decidió crear un script por cada punto solicitado con lo cual para ejecutar se debe seguir el orden: 
+Se decidió crear un script por cada punto solicitado. Se pide seguir el siguiente orden.
 1. python3 .1a_gender_year_add.py
 2. python3 .1b_join_dt_gender_year.py
 3. python3 .1c_join_dt_years.py
@@ -23,36 +23,36 @@ Se decidió crear un script por cada punto solicitado con lo cual para ejecutar 
 
 ## Inputs para ejecutar el programa
 Los scripts (.py) de los ejercicios 1a, 1b, 1c, 2a, 2c estan acompañados de un fichero .txt que contiene los argumentos que necesita el .py
-Por lo cual si se desea cambiar los argumentos se requiere modificar el .txt respectivo.
+Por lo cual si se desea cambiar los argumentos se requiere modificar el .txt respectivo. No es necesario ejecutar el .txt ya que el script py llama y abre el .txt respectivo
 
 
 ## Outputs del programa
 Cada script se buscó que mostrara el data set requerido. Es mostrado con funcion .head
-Para acceder al data set completo se debe acceder a la carpeta ./data donde estan los csv riginales y los que se han obtenido. 
+Para acceder al data set completo se debe acceder a la carpeta ./data donde estan los csv originales y los que se han obtenido con la ejecución de los script. 
 Los data set obtenidos son:
 
-Ejercicio 1a:
+**Ejercicio 1a:**
 Todos los csv originales renombrados con el año. adentro cada uno tiene las columnas gender y year, asi:
 * players_xx_xxxx.csv y female_players_xx_xxxx.csv
 
-Ejercicio 1b:
+**Ejercicio 1b:**
 * dt_join_male_female_xxxx.csv
 
-Ejercicio 1c:
+**Ejercicio 1c:**
 * dt_join_years_xxxx_xxxx.csv
 
-Ejercicio 2a:
+**Ejercicio 2a:**
 * find_max_col_df.csv
 
-Ejercicio 2b:
+**Ejercicio 2b:**
 * 2b_dt_query.csv
 
-Ejercicio 2c:
+**Ejercicio 2c:**
 * 2c_dt_query_all_years.csv
 * 2c_2_query.csv
 * 2c_1_query.csv
 
-Ejercicio 3a:
+**Ejercicio 3a:**
 * 3a_XXXX_players_XX_XXXX.csv
 
 
