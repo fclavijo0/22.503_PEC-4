@@ -16,9 +16,10 @@ Se decidió crear un script por cada punto solicitado con lo cual para ejecutar 
 2. python3 .1b_join_dt_gender_year.py
 3. python3 .1c_join_dt_years.py
 4. python3 .2a_max_col.py
-5. python3 .2b_dt_query.py (No funciona)
+5. python3 .2b_dt_query.py 
 6. python3 .2c_dt_query.py
 7. python3 .3a_BMI.py
+8. python3 .3b_query.py
 
 ## Inputs para ejecutar el programa
 Los scripts (.py) de los ejercicios 1a, 1b, 1c, 2a, 2b, 2c estan acompañados de un fichero .txt que contiene los argumentos que necesita el .py
@@ -43,7 +44,15 @@ Ejercicio 1c:
 Ejercicio 2a:
 * find_max_col_df.csv
 
+Ejercicio 2b:
+* 2b_query.csv
+
 Ejercicio 2c:
 * 2c_dt_query_all_years.csv
 * 2c_2_query.csv
 * 2c_1_query.csv
+
+Ejercicio 3a:
+* 3a_xxxxx.csv
+
+
