@@ -5,10 +5,6 @@ Autor: Federico Clavijo López
 ## Contexto
 Nos han pedido que diseñemos una serie de herramientas que permitan trabajar con este tipo de datos a largo plazo, además de realizar unos análisis preliminares de los mismos. Para ello, nos han proporcionado un conjunto de datos que incluye toda la información sobre los jugadores y las jugadoras incluídas en el videojuego desde el año 2016 hasta el 2022.
 
-## Inputs para ejecutar el programa
-El programa necesita un fichero input_fclavijo0.txt, que contiene:
-1. 
-2. 
 
 ## Pasos para ejecutar PEC4_fclavijo0.py
 1. Descargar y descomprimir fichero. El mismo fichero se encuentra en el repositorio https://github.com/fclavijo0/22.503_PEC-4/
@@ -24,7 +20,9 @@ Se decidió crear un script por cada punto solicitado con lo cual para ejecutar 
 6. python3 .2c_dt_query.py
 7. python3 .3a_BMI.py
 
+## Inputs para ejecutar el programa
 Los scripts (.py) de los ejercicios 1a, 1b, 1c, 2a, 2b, 2c estan acompañados de un fichero .txt que contiene los argumentos que necesita el .py
+Por lo cual si se desea cambiar los argumentos se requiere modificar el .txt respectivo.
 
 
 ## Outputs del programa
