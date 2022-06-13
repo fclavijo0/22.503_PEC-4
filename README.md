@@ -19,10 +19,10 @@ Se decidió crear un script por cada punto solicitado con lo cual para ejecutar 
 5. python3 .2b_dt_query.py 
 6. python3 .2c_dt_query.py
 7. python3 .3a_BMI.py
-8. python3 .3b_query.py
+
 
 ## Inputs para ejecutar el programa
-Los scripts (.py) de los ejercicios 1a, 1b, 1c, 2a, 2b, 2c estan acompañados de un fichero .txt que contiene los argumentos que necesita el .py
+Los scripts (.py) de los ejercicios 1a, 1b, 1c, 2a, 2c estan acompañados de un fichero .txt que contiene los argumentos que necesita el .py
 Por lo cual si se desea cambiar los argumentos se requiere modificar el .txt respectivo.
 
 
@@ -45,7 +45,7 @@ Ejercicio 2a:
 * find_max_col_df.csv
 
 Ejercicio 2b:
-* 2b_query.csv
+* 2b_dt_query.csv
 
 Ejercicio 2c:
 * 2c_dt_query_all_years.csv
@@ -53,6 +53,6 @@ Ejercicio 2c:
 * 2c_1_query.csv
 
 Ejercicio 3a:
-* 3a_xxxxx.csv
+* 3a_XXXX_players_XX_XXXX.csv
 
 
